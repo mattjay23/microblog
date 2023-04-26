@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://matt-jay.micro.blog/2023/04/26/this-new-translation.html",
+				
+				"content_html": "<p>This <a href=\"https://kottke.org/23/04/emily-wilsons-translation-of-the-iliad\">new translation of The Iliad</a> looks very interesting. I&rsquo;m curious to look into Wilson&rsquo;s creative process as well.</p>\n",
+				"content_text": "This [new translation of The Iliad](https://kottke.org/23/04/emily-wilsons-translation-of-the-iliad) looks very interesting. I'm curious to look into Wilson's creative process as well.\n",
+				"date_published": "2023-04-26T08:58:11-06:00",
+				"url": "https://matt-jay.micro.blog/2023/04/26/this-new-translation.html"
+			},
+			{
+				"id": "http://matt-jay.micro.blog/2023/04/14/i-keep-thinking.html",
+				
+				"content_html": "<p>I keep thinking about <a href=\"https://www.todayintabs.com/p/bitcoin-is-commoditized-waste\">this description</a> of Bitcoin&rsquo;s value:</p>\n<blockquote>\n<p>It’s a popular myth that a Bitcoin’s value is based on nothing, just pulled out of thin air by math. But that’s not true—Bitcoin is a way to commoditize energy consumption without accidentally producing anything useful. Other energy-intensive industries tend to convert energy into useful materials like aluminum or cement. Bitcoin converts electricity into waste heat and records its destruction in the form of numbers, which can then be traded for other numbers but not used to make anything people need or converted back into energy.</p>\n</blockquote>\n",
+				"content_text": "I keep thinking about [this description](https://www.todayintabs.com/p/bitcoin-is-commoditized-waste) of Bitcoin's value:\r\n\r\n> It’s a popular myth that a Bitcoin’s value is based on nothing, just pulled out of thin air by math. But that’s not true—Bitcoin is a way to commoditize energy consumption without accidentally producing anything useful. Other energy-intensive industries tend to convert energy into useful materials like aluminum or cement. Bitcoin converts electricity into waste heat and records its destruction in the form of numbers, which can then be traded for other numbers but not used to make anything people need or converted back into energy.\n",
+				"date_published": "2023-04-14T16:57:40-06:00",
+				"url": "https://matt-jay.micro.blog/2023/04/14/i-keep-thinking.html"
+			},
+			{
 				"id": "http://matt-jay.micro.blog/2023/03/10/currently-reading-first.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781609383473\">First We Read, Then We Write</a> by Robert D. Richardson 📚</p>\n<blockquote>\n<p>But we live after all in that &ldquo;weary kingdom of time,&rdquo; and Emerson&rsquo;s idea of art, of poetry, fits satisfyingly into this world as he says, in the essay&rsquo;s high point and culminating line, &ldquo;Art is the path of the creator to his work.&rdquo; One cannot not repeat it enough; art is not the finished work, art is the getting there.</p>\n</blockquote>\n",
