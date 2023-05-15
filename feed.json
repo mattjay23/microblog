@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://matt-jay.micro.blog/2023/04/27/finished-reading-do.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781936891375\">Do The Work!</a> by Steven Pressfield 📚</p>\n",
+				"content_text": "Finished reading: [Do The Work!](https://micro.blog/books/9781936891375) by Steven Pressfield 📚\n",
+				"date_published": "2023-04-27T13:00:00-06:00",
+				"url": "https://matt-jay.micro.blog/2023/04/27/finished-reading-do.html"
+			},
+			{
 				"id": "http://matt-jay.micro.blog/2023/04/26/this-new-translation.html",
 				
 				"content_html": "<p>This <a href=\"https://kottke.org/23/04/emily-wilsons-translation-of-the-iliad\">new translation of The Iliad</a> looks very interesting. I&rsquo;m curious to look into Wilson&rsquo;s creative process as well.</p>\n",
@@ -42,7 +50,7 @@
 				"id": "http://matt-jay.micro.blog/2023/03/05/from-this-mornings.html",
 				
 				"content_html": "<p>From this morning’s reading.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "From this morning’s reading. \n\n<img src=\"uploads/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
+				"content_text": "From this morning’s reading. \n\n<img src=\"https://cdn.uploads.micro.blog/98880/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
 				"date_published": "2023-03-05T10:22:14-06:00",
 				"url": "https://matt-jay.micro.blog/2023/03/05/from-this-mornings.html"
 			},
