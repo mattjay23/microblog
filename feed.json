@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://matt-jay.micro.blog/2025/10/22/came-across-this-halloween-display.html",
+				
+				"content_html": "<p>Came across this Halloween display while out for a walk yesterday.</p>\n<img src=\"uploads/2025/22bcbd56e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Came across this Halloween display while out for a walk yesterday. \n\n<img src=\"uploads/2025/22bcbd56e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2025-10-22T16:22:28-06:00",
+				"url": "https://matt-jay.micro.blog/2025/10/22/came-across-this-halloween-display.html"
+			},
+			{
 				"id": "http://matt-jay.micro.blog/2025/10/17/i-really-like-rudy-ruckers.html",
 				
 				"content_html": "<p>I really like Rudy Rucker&rsquo;s <a href=\"https://www.rudyrucker.com/transrealbooks/collectedessays/#_Toc02\">thoughts on shopping malls</a> here:</p>\n<blockquote>\n<p>Cyberpunk suggests, once again, that SF really can be about the world and not just about the author’s mind. For me, the best thing about cyberpunk is that it taught me how to enjoy shopping malls, which used to terrify me. Now I just pretend that the whole thing is two miles below the moon’s surface, and that half the people’s right-brains have been eaten by roboticized steel rats. And suddenly it’s interesting again.</p>\n</blockquote>\n",
@@ -73,8 +81,8 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/05/16/smoke-has-drifted.html",
 				
-				"content_html": "<img src=\"uploads/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n<p>Smoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.</p>\n",
-				"content_text": "<img src=\"uploads/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n\nSmoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.\n",
+				"content_html": "<img src=\"https://cdn.uploads.micro.blog/98880/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n<p>Smoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.</p>\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/98880/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n\nSmoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.\n",
 				"date_published": "2023-05-16T11:01:28-06:00",
 				"url": "https://matt-jay.micro.blog/2023/05/16/smoke-has-drifted.html"
 			},
@@ -121,8 +129,8 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/03/05/from-this-mornings.html",
 				
-				"content_html": "<p>From this morning’s reading.</p>\n<img src=\"uploads/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
-				"content_text": "From this morning’s reading. \n\n<img src=\"uploads/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
+				"content_html": "<p>From this morning’s reading.</p>\n<img src=\"https://cdn.uploads.micro.blog/98880/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
+				"content_text": "From this morning’s reading. \n\n<img src=\"https://cdn.uploads.micro.blog/98880/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
 				"date_published": "2023-03-05T10:22:14-06:00",
 				"url": "https://matt-jay.micro.blog/2023/03/05/from-this-mornings.html"
 			},
