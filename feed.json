@@ -1,15 +1,23 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Matt's Blog",
-	"icon": "https://avatars.micro.blog/avatars/2023/08/1339691.jpg",
+	"icon": "https://micro.blog/_matt_jay/avatar.jpg",
 	"home_page_url": "https://matt-jay.micro.blog/",
 	"feed_url": "https://matt-jay.micro.blog/feed.json",
 	"items": [
 		
 			{
+				"id": "http://matt-jay.micro.blog/2025/11/09/canadian-premier-league-final-in.html",
+				
+				"content_html": "<p>Canadian Premier League final in Ottawa. We do things differently here in Canada…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Canadian Premier League final in Ottawa. We do things differently here in Canada…\n\n<img src=\"uploads/2025/image.png\" width=\"600\" height=\"416\" alt=\"\">\n",
+				"date_published": "2025-11-09T17:57:46-06:00",
+				"url": "https://matt-jay.micro.blog/2025/11/09/canadian-premier-league-final-in.html"
+			},
+			{
 				"id": "http://matt-jay.micro.blog/2025/10/22/came-across-this-halloween-display.html",
 				
-				"content_html": "<p>Came across this Halloween display while out for a walk yesterday.</p>\n<img src=\"uploads/2025/22bcbd56e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Came across this Halloween display while out for a walk yesterday.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Came across this Halloween display while out for a walk yesterday. \n\n<img src=\"uploads/2025/22bcbd56e6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2025-10-22T16:22:28-06:00",
 				"url": "https://matt-jay.micro.blog/2025/10/22/came-across-this-halloween-display.html"
@@ -33,7 +41,7 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/07/19/along-with-lots.html",
 				
-				"content_html": "<p>Along with lots of other flowers, vegetables and herbs, we’ve got dozens of sunflowers in the yard. They’re just starting to bloom!</p>\n<img src=\"uploads/2023/image.jpg\" alt=\"A deep orange sunflower with a grass yard and garden in the background\" width=\"450\" height=\"600\">\n",
+				"content_html": "<p>Along with lots of other flowers, vegetables and herbs, we’ve got dozens of sunflowers in the yard. They’re just starting to bloom!</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Along with lots of other flowers, vegetables and herbs, we’ve got dozens of sunflowers in the yard. They’re just starting to bloom!\n\n<img src=\"uploads/2023/image.jpg\" alt=\"A deep orange sunflower with a grass yard and garden in the background\" width=\"450\" height=\"600\">\n",
 				"date_published": "2023-07-19T15:21:58-06:00",
 				"url": "https://matt-jay.micro.blog/2023/07/19/along-with-lots.html"
@@ -81,7 +89,7 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/05/16/smoke-has-drifted.html",
 				
-				"content_html": "<img src=\"https://cdn.uploads.micro.blog/98880/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n<p>Smoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Smoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.</p>\n",
 				"content_text": "<img src=\"https://cdn.uploads.micro.blog/98880/2023/9ad85385a5.png\" alt=\"Morning sun partially obscured by smoke.\" title=\"smoky sun\" border=\"0\" width=\"600\" height=\"450\" />\n\nSmoke has drifted down from the wildfires in northern Alberta this morning, making things very gloomy outside.\n",
 				"date_published": "2023-05-16T11:01:28-06:00",
 				"url": "https://matt-jay.micro.blog/2023/05/16/smoke-has-drifted.html"
@@ -89,7 +97,7 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/04/27/finished-reading-do.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781936891375/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781936891375\">Do The Work!</a> by Steven Pressfield 📚</p>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781936891375\">Do The Work!</a> by Steven Pressfield 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781936891375/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Do The Work!](https://micro.blog/books/9781936891375) by Steven Pressfield 📚\n",
 				"date_published": "2023-04-27T13:00:00-06:00",
 				"url": "https://matt-jay.micro.blog/2023/04/27/finished-reading-do.html"
@@ -113,7 +121,7 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/03/10/currently-reading-first.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781609383473/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781609383473\">First We Read, Then We Write</a> by Robert D. Richardson 📚</p>\n<blockquote>\n<p>But we live after all in that &ldquo;weary kingdom of time,&rdquo; and Emerson&rsquo;s idea of art, of poetry, fits satisfyingly into this world as he says, in the essay&rsquo;s high point and culminating line, &ldquo;Art is the path of the creator to his work.&rdquo; One cannot not repeat it enough; art is not the finished work, art is the getting there.</p>\n</blockquote>\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>Currently reading: <a href=\"https://micro.blog/books/9781609383473\">First We Read, Then We Write</a> by Robert D. Richardson 📚</p>\n<blockquote>\n<p>But we live after all in that &ldquo;weary kingdom of time,&rdquo; and Emerson&rsquo;s idea of art, of poetry, fits satisfyingly into this world as he says, in the essay&rsquo;s high point and culminating line, &ldquo;Art is the path of the creator to his work.&rdquo; One cannot not repeat it enough; art is not the finished work, art is the getting there.</p>\n</blockquote>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781609383473/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [First We Read, Then We Write](https://micro.blog/books/9781609383473) by Robert D. Richardson 📚\r\n\r\n> But we live after all in that \"weary kingdom of time,\" and Emerson's idea of art, of poetry, fits satisfyingly into this world as he says, in the essay's high point and culminating line, \"Art is the path of the creator to his work.\" One cannot not repeat it enough; art is not the finished work, art is the getting there.\n",
 				"date_published": "2023-03-10T09:11:20-06:00",
 				"url": "https://matt-jay.micro.blog/2023/03/10/currently-reading-first.html"
@@ -129,7 +137,7 @@
 			{
 				"id": "http://matt-jay.micro.blog/2023/03/05/from-this-mornings.html",
 				
-				"content_html": "<p>From this morning’s reading.</p>\n<img src=\"https://cdn.uploads.micro.blog/98880/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
+				"content_html": "<p>From this morning’s reading.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "From this morning’s reading. \n\n<img src=\"https://cdn.uploads.micro.blog/98880/2023/e9ea833814.png\" width=\"600\" height=\"443\" alt=\"\">\n",
 				"date_published": "2023-03-05T10:22:14-06:00",
 				"url": "https://matt-jay.micro.blog/2023/03/05/from-this-mornings.html"
